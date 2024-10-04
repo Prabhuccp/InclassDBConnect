@@ -6,6 +6,6 @@ define('DB_USERNAME', 'admin');
 
 define('DB_PASSWORD', 'Jcricket963.$');
 
-define('DB_DATABASE', 'student');
+define('DB_DATABASE', 'studentwebform');
 
 ?>
