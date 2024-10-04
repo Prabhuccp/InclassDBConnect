@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Insert Page page</title>
+	<title>Completed Form</title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
 		// username => root now your db username 
 		// password => empty now your own password
 		// database name => Your database name
-		$conn = mysqli_connect("connectstudentformps.czptxhzjxjrt.us-east-1.rds.amazonaws.com", "admin", "Jcricket963.$", "studentwebform");
+		$conn = mysqli_connect("connectstudentformps.czptxhzjxjrt.us-east-1.rds.amazonaws.com", "admin", "Jcricket963.$", "newstudent");
 		
 		// Check connection
 		if($conn === false){
